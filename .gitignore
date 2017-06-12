@@ -1,3 +1,5 @@
 # Microsoft Word temporary files
 ~$*
+~*.tmp
+
 build-*
